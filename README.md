@@ -24,8 +24,9 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 Apply new unknown values
 
-~~~
+
 ## Program:
+~~~
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: GUHANANDAN V
