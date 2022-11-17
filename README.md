@@ -103,7 +103,9 @@ Null Data:
 
 <img width="347" alt="43" src="https://user-images.githubusercontent.com/100425381/202349240-7f9a50e3-67b2-4016-afc8-32b425e7c342.png">
 
+duplicated values:
 
+![11](https://user-images.githubusercontent.com/100425381/202350700-1b8d24ac-7734-4b14-bf15-66ad8b4f776d.jpg)
 
 Label Encoder:
 
